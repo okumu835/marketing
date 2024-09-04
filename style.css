@@ -1,0 +1,45 @@
+.navbar{
+    background-color: blue;
+    color: brown;
+
+}
+#lipasmart{
+    background-color: black;
+}
+#watermelon{
+    color: brown;
+}
+#apple{
+    color: azure;
+    list-style-type: none;
+    margin: 0;
+    padding: 0%;
+    overflow: hidden;
+}
+#avocado{
+float: left;
+}
+#avocado a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-family: Georgia, serif;
+    display: block;
+    padding: 15px;
+    margin-top: 15px;
+}
+.paragraph{
+    background-color: brown;
+    margin-bottom: 15px;
+    padding-top: 15px;
+    margin-top: 50px;
+}
+.ceenet{
+    margin-top: 20px;
+    height: 400px;
+    width: 300px;
+}
+.navbar{
+    background-color: brown;
+}
+
